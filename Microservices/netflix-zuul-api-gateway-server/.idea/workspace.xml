@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96fdd71-8327-4fb5-a920-ce98a028d981" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../limits-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-config-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-config-server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/microservice/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/microservice/currencyconversionservice/controller/CurrencyConversionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/microservice/currencyconversionservice/model/CurrencyConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/microservice/currencyconversionservice/serviceProxy/CurrencyExchangeServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/test/java/com/microservice/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/test/java/com/microservice/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/java/com/microservice/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/java/com/microservice/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/test/java/com/microservice/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/test/java/com/microservice/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/ForexServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/ForexServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/controller/ForexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/controller/ForexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/model/ExchangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/model/ExchangeValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/repo/ExchangeValueRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/src/main/java/com/microservice/forexservice/repo/ExchangeValueRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forex-service/src/test/java/com/microservice/forexservice/ForexServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../forex-service/src/test/java/com/microservice/forexservice/ForexServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/jpa-in-10-steps-all-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/JpaIn10StepsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/UserDaoServiceCommandLineRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/UserRepositoryCommandLineRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/service/UserDAOService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/service/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/src/test/java/com/in28minutes/learning/jpa/jpain10steps/JpaIn10StepsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/step-completed.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/step21.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/step22.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/step23.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/jpa-in-10-steps/take-step-backup.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/src/main/java/com/in28minutes/springboot/basics/springbootin10steps/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/src/main/java/com/in28minutes/springboot/basics/springbootin10steps/BooksController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/src/main/java/com/in28minutes/springboot/basics/springbootin10steps/SpringbootIn10StepsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/01.framework-introductions/springboot-in-10-steps/src/test/java/com/in28minutes/springboot/basics/springbootin10steps/SpringbootIn10StepsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup01-after-creating-project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup02-after-hello-world-path-param.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup03-after-two-retrieve-user-services.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup04-basic-create-service.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup05-after-creating-delete-method-on-user-resource.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup06-after-implementing-validation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup06-z-content-negotiation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup07-improving-documentation-with-swagger.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup08-completed-filtering.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup09-completed-versioning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup09-z-completed-security.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup10-configure-jpa-and-repository.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup11-added-create-post-resource.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/backup12-migrated-to-jpa.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/exception/CustomizedResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/exception/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/FilteringController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/SomeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/PostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserDaoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserJPAResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/PersonV1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/PersonV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/PersonVersioningController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/resources/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/main/resources/messages_nl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/02.restful-web-services/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/.idea/03.microservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/src/main/java/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/src/main/java/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/src/main/java/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/src/main/java/com/in28minutes/microservices/currencyconversionservice/CurrencyExchangeServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-conversion-service/src/test/java/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/ExchangeValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/ExchangeValueRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/currency-exchange-service/src/test/java/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/src/main/java/com/in28minutes/microservices/limitsservice/Configuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/src/main/java/com/in28minutes/microservices/limitsservice/LimitsConfigurationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/src/main/java/com/in28minutes/microservices/limitsservice/LimitsServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/src/main/java/com/in28minutes/microservices/limitsservice/bean/LimitConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/limits-service/src/test/java/com/in28minutes/microservices/limitsservice/LimitsServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-eureka-naming-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-eureka-naming-server/src/main/java/com/in28minutes/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-eureka-naming-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-eureka-naming-server/src/test/java/com/in28minutes/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-zuul-api-gateway-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-zuul-api-gateway-server/src/main/java/com/in28minutes/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-zuul-api-gateway-server/src/main/java/com/in28minutes/microservices/netflixzuulapigatewayserver/ZuulLoggingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-zuul-api-gateway-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/netflix-zuul-api-gateway-server/src/test/java/com/in28minutes/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/spring-cloud-config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/spring-cloud-config-server/src/main/java/com/in28minutes/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/spring-cloud-config-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/spring-cloud-config-server/src/test/java/com/in28minutes/microservices/springcloudconfigserver/SpringCloudConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step08.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step09.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step17.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step20.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step23.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step25.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step29.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step34.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step41.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step42.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step43.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/03.microservices/step44.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/spring-boot-2-0-0-Upgrade-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/spring-boot-2-0-0-Upgrade-notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-microservices-in28minutes/spring-microservices-presentation.pdf" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\arune\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netflix-zuul-api-gateway-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netflix-zuul-api-gateway-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netflix-zuul-api-gateway-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netflix-zuul-api-gateway-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netflix-zuul-api-gateway-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="netflixzuulapigatewayserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netflix-zuul-api-gateway-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551897255599" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eureka-server" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NetflixZuulApiGatewayServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.microservices.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication" />
+      <module name="netflix-zuul-api-gateway-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.microservices.netflixzuulapigatewayserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NetflixZuulApiGatewayServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96fdd71-8327-4fb5-a920-ce98a028d981" name="Default Changelist" comment="" />
+      <created>1551887682906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551887682906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3337989" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/netflixzuulapigatewayserver/ZuulLoggingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
